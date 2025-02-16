@@ -1,0 +1,27 @@
+Variable,Data Type,Further Classification
+state,Categorical,Nominal
+mstatus,Categorical,Nominal
+totper,Numerical,"Discrete, Ratio"
+adults,Numerical,"Discrete, Ratio"
+parent,Categorical,Nominal
+age,Numerical,"Discrete, Ratio"
+educ,Categorical,Ordinal
+income,Numerical,"Continuous, Ratio"
+hispanic,Categorical,Nominal
+race,Categorical,Nominal
+partyln,Categorical,Nominal
+polview,Categorical,Ordinal
+sex,Categorical,Nominal
+religion,Categorical,Nominal
+Q1,Categorical,Nominal
+Q2,Categorical,Ordinal
+Q3a,Categorical,Nominal
+Q3b,Categorical,Nominal
+Q4,Categorical,Ordinal
+Q5a,Categorical,Ordinal
+Q5b,Categorical,Ordinal
+Q5c,Categorical,Ordinal
+Q5d,Categorical,Ordinal
+Q5e,Categorical,Ordinal
+Q5f,Categorical,Ordinal
+Q6,Categorical,Nominal
